@@ -1,4 +1,4 @@
-package MVC;
+package Ejercicio1.MVC;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
