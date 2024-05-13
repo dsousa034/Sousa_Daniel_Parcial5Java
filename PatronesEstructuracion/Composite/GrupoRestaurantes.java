@@ -1,4 +1,4 @@
-package PatronesEstructuracion;
+package PatronesEstructuracion.Composite;
 
 import java.util.ArrayList;
 import java.util.List;

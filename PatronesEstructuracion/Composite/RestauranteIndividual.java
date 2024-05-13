@@ -1,4 +1,4 @@
-package PatronesEstructuracion;
+package PatronesEstructuracion.Composite;
 
 public class RestauranteIndividual extends RestauranteComposite{
     @Override

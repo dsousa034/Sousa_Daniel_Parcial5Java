@@ -1,6 +1,8 @@
-package PatronesEstructuracion;
+package PatronesEstructuracion.Adapter;
 
-public class SistemaAdapter implements Restaurante{
+import PatronesEstructuracion.Restaurante;
+
+public class SistemaAdapter implements Restaurante {
     private SistemaExterno sistemaExterno;
     @Override
     public void servirCliente() {

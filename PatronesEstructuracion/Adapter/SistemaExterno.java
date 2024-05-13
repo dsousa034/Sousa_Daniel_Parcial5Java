@@ -1,4 +1,4 @@
-package PatronesEstructuracion;
+package PatronesEstructuracion.Adapter;
 
 public interface SistemaExterno {
     void realizarReservaExterna();
