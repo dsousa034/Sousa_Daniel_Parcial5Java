@@ -1,4 +1,4 @@
-package PatronesComportamiento;
+package PatronesComportamiento.Command;
 
 public class CancelarCommand implements Command{
     @Override
