@@ -1,4 +1,4 @@
-package PatronesConstruccion;
+package PatronesConstruccion.Factory;
 
 public class Rapido implements Restaurante{
     @Override

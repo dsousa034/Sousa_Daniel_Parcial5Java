@@ -1,4 +1,4 @@
-package PatronesConstruccion;
+package PatronesConstruccion.Strategy;
 
 public class StrategyLujo implements StrategyServicio{
     @Override

@@ -1,4 +1,10 @@
-package PatronesConstruccion;
+package PatronesConstruccion.Gestor_Uso;
+
+import PatronesConstruccion.Factory.Restaurante;
+import PatronesConstruccion.Strategy.StrategyLujo;
+import PatronesConstruccion.Strategy.StrategyRapido;
+import PatronesConstruccion.Strategy.StrategyServicio;
+import PatronesConstruccion.Strategy.StrategyTematico;
 
 public class UsoRestaurante {
     public static void main(String[] args) {

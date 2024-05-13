@@ -1,4 +1,4 @@
-package PatronesConstruccion;
+package PatronesConstruccion.Factory;
 
 public class Lujo implements Restaurante{
     @Override

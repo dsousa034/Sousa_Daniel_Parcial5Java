@@ -1,4 +1,9 @@
-package PatronesConstruccion;
+package PatronesConstruccion.Gestor_Uso;
+
+import PatronesConstruccion.Factory.Lujo;
+import PatronesConstruccion.Factory.Rapido;
+import PatronesConstruccion.Factory.Restaurante;
+import PatronesConstruccion.Factory.Temático;
 
 public class Gestor {
     private static Gestor instancia;
